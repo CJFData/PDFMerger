@@ -16,7 +16,7 @@ A simple and intuitive Streamlit web app that allows you to merge multiple PDF f
 
 ## 🚀 Demo
 
-[Link to your deployed app on Streamlit Community Cloud - add this after deploying]
+https://pdfmerger-cjfdata.streamlit.app/
 
 ## 📋 Requirements
 
