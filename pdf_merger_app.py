@@ -7,8 +7,11 @@ import io
 
 st.set_page_config(page_title="PDF Merger", layout="wide")
 st.title("📄 PDF Merger")
-st.text("Hello!☺️ \n This webapp can be used to merge PDFs, you can even select a range of pages you wish to use within each document. \nJust upload all the documents you wish to merge in order from first to last")
-# Initialize session state
+
+st.text("Hello!☺️")
+st.text("This webapp can be used to merge PDFs, you can even select a range of pages you wish to use within each document.")
+st.text("Just upload all the documents you wish to merge in order from first to last")
+
 if 'pdfs' not in st.session_state:
     st.session_state.pdfs = []
 
