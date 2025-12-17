@@ -84,7 +84,7 @@ Created with assistance from Claude (Anthropic)
 
 ## 📧 Contact
 
-Your Name - [Christian J Ferreira](https://www.linkedin.com/in/christianjferreira/) - data@christianjferreira.com
+[Christian J Ferreira](https://www.linkedin.com/in/christianjferreira/) - data@christianjferreira.com
 
 Project Link: [https://github.com/CJFData/PDFMerger](https://github.com/CJFData/PDFMerger)
 
