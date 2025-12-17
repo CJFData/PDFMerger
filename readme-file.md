@@ -84,9 +84,9 @@ Created with assistance from Claude (Anthropic)
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [Christian J Ferreira](https://www.linkedin.com/in/christianjferreira/) - data@christianjferreira.com
 
-Project Link: [https://github.com/yourusername/pdf-merger](https://github.com/yourusername/pdf-merger)
+Project Link: [https://github.com/yourusername/pdf-merger](https://github.com/CJFData/PDFMerger)
 
 ---
 
