@@ -33,7 +33,7 @@ https://pdfmerger-cjfdata.streamlit.app/
 1. Clone this repository:
 ```bash
 git clone https://github.com/CJFData/PDFMerger.git
-cd pdf-merger
+cd PDFMerger
 ```
 
 2. Install the required packages:
