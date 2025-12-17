@@ -32,7 +32,7 @@ https://pdfmerger-cjfdata.streamlit.app/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pdf-merger.git
+git clone https://github.com/CJFData/PDFMerger.git
 cd pdf-merger
 ```
 
@@ -86,7 +86,7 @@ Created with assistance from Claude (Anthropic)
 
 Your Name - [Christian J Ferreira](https://www.linkedin.com/in/christianjferreira/) - data@christianjferreira.com
 
-Project Link: [https://github.com/yourusername/pdf-merger](https://github.com/CJFData/PDFMerger)
+Project Link: [https://github.com/CJFData/PDFMerger](https://github.com/CJFData/PDFMerger)
 
 ---
 
